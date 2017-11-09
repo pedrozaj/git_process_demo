@@ -15,5 +15,5 @@ However, the code contained herein is an excellent demonstration of a Dotnet pro
 ## Git the code
 Using a combination of GitHub and SourceTree, contributing to and tracking changes for this project is easier than ever!
 1. Make an account on GitHub.com, and contact the repository owner for an invite to be a Contributor.
-2. Use SourceTree to clone this repository to your local machine. The .git link can be found at the top of the repository's home page on GitHub.
+2. Use SourceTree to clone this repository to your local machine. The our repository's web URL can be found at the top of the repository's home page on GitHub.
 3. Use your favourite IDE to make changes to the code.
