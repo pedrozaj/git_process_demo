@@ -1,7 +1,7 @@
 # git_process_demo
 
 ## Introduction
-This is the introduction for the project.
+This is the introduction for our project. Happy coding!
 
 ### Purpose
 There are two purposes of this project:
