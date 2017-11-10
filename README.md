@@ -1,11 +1,7 @@
 # git_process_demo
 
 ## Introduction
-<<<<<<< HEAD
-Welcome to the project.
-=======
-This is the introduction for our project. Happy coding!
->>>>>>> bugs/issue001
+Welcome to the project. This repository is only for documentation purposes.
 
 ### Purpose
 There are two purposes of this project:
