@@ -1,7 +1,7 @@
 # git_process_demo
 
 ## Introduction
-Welcome to the project. This repository is only for documentation purposes.
+This is the introduction for the project. May the code be with you.
 
 ### Purpose
 There are two purposes of this project:
